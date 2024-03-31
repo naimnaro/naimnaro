@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf)](https://solved.ac/xez8jf/)
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="500" height="300">
+<div style="display:flex; flex-direction:row;">
+    <a href="https://solved.ac/xez8jf/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf" width="400">
+    </a>
+    <a href="https://solved.ac/xez8jf/">
+        <img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="400">
+    </a>
+</div>
 
 
 <br><br><br>
