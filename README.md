@@ -3,7 +3,7 @@
 <div style="display:flex; flex-direction:column;">
     <div>
         <a href="https://solved.ac/xez8jf/">
-             <img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="400">       하하
+             <img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="400">       
         </a>
     </div>
     <div>
@@ -13,6 +13,7 @@
     </div>
 </div>
 
+![naimnaro's github stats](https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical)
 
 
 <br><br><br>
