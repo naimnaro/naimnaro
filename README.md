@@ -7,13 +7,11 @@
         </a>
     </div>
     <div>
-        <a href="https://solved.ac/xez8jf/">
+        <a href="https://solved.ac/profile/xez8jf">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf" width="400">
         </a>
     </div>
 </div>
-
-![naimnaro's github stats](https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical)
 
 
 <br><br><br>
