@@ -1,5 +1,6 @@
 ### hi. naimnaro here 👋
 
+Gyeonggi University of Science and Technology
 ---
 
 <div style="display:flex; flex-direction:column;">
