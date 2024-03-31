@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div style="display:flex;  flex-direction:column;">
+<div style="display:flex; flex-direction:column;">
     <a href="https://solved.ac/xez8jf/">
         <img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="400">
     </a>
