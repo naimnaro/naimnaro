@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf)](https://solved.ac/xez8jf/)
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="350" height="300">
+<img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="350" height="200">
 
 
 <br><br><br>
