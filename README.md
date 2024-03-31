@@ -3,7 +3,6 @@
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://solved.ac/xez8jf/">
-        
         <img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="400">
     </a>
     <a href="https://solved.ac/xez8jf/">
