@@ -3,12 +3,12 @@
 <div style="display:flex; flex-direction:column;">
     <div style="margin-bottom: 10px;">
         <a href="https://solved.ac/xez8jf/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf" width="400">
+             <img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="400">
         </a>
     </div>
     <div>
         <a href="https://solved.ac/xez8jf/">
-            <img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="400">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf" width="400">
         </a>
     </div>
 </div>
