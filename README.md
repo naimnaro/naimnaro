@@ -4,7 +4,7 @@
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf)](https://solved.ac/xez8jf/)
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="450" height="250">
+<img src="https://github-readme-stats.vercel.app/api?username=naimnaro&show_icons=true&theme=radical" width="300" height="150">
 
 
 <br><br><br>
