@@ -7,9 +7,7 @@
         </a>
     </div>
     <div>
-        <a href="https://solved.ac/profile/xez8jf">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf" width="400">
-        </a>
+       [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xez8jf)](https://solved.ac/xez8jf/)
     </div>
 </div>
 
