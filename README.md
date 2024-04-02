@@ -1,7 +1,6 @@
 ### hi. naimnaro here 👋
 
 Gyeonggi University of Science and Technology
-☎️ 010-4708-7420
 
 ---
 
